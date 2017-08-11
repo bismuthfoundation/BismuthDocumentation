@@ -1,2 +1,0 @@
-# BismuthDocumentation
-Documentation for Bismuth
