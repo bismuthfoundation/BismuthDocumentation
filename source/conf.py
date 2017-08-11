@@ -55,8 +55,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Bismuth'
-copyright = '2017, Jan Kucera'
-author = 'Jan Kucera'
+copyright = '2017, Bismuth Foundation'
+author = 'Bismuth Foundation'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -151,7 +151,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'Bismuth.tex', 'Bismuth Documentation',
-     'Jan Kucera', 'manual'),
+     'Bismuth Foundation', 'manual'),
 ]
 
 
