@@ -20,7 +20,7 @@ Individual lines are explained below:
 | Limit of number of outgoing client threads to be created. Once this limit is reached, node will not accept more incoming connections or attempt to create outgoing connections.
 
 | pool_ip=127.0.0.1
-| Change this value to the IP of the pool in case zou are mining with the default miner for a pool. For solo mining, this part can be ignored.
+| Change this value to the IP of the pool in case you are mining with the default miner for a pool. For solo mining, this part can be ignored.
 
 | rebuild_db=0
 | Change to 1 to perform database maintenance on startup to save some drive space.
