@@ -10,11 +10,21 @@ Welcome to Bismuth's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   Transaction Structure
+   Consensus Rules
+   Node Structure
+   Functions
+   Network Layer
+   Command-line user interface
+   Requirements
+   Configuration
+   Links
+   Launch
+   Interpretation Engines
+
+
+   * :ref:`search`
