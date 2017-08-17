@@ -25,6 +25,7 @@ Indices and tables
    Links
    Launch
    Interpretation Engines
+   Troubleshooting
 
 
    * :ref:`search`
