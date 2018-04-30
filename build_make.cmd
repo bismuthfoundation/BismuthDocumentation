@@ -3,3 +3,4 @@ rmdir /s /q build
 
 sphinx-build -b html source build
 make html
+pause

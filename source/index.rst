@@ -26,6 +26,7 @@ Indices and tables
    Launch
    Interpretation Engines
    Troubleshooting
+   Testnet
 
 
    * :ref:`search`
